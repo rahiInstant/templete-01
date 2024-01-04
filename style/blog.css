@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main-title {
+    text-align: center;
+    margin:20px;
+    border: 2px ridge red;
+    padding: 10px;
+    border-radius: 10px;
+}
+.blog {
+    background-color: #bb695a;
+    margin: 10px 30px;
+    padding: 10px;
+    text-align: justify;
+    border: 5.5px solid #c05542;
+    border-radius: 5px;
+}
+.blg-num {
+    color: #e7e43c;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
